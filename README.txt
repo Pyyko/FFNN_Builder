@@ -1,6 +1,3 @@
------------------------------------------IDK WHAT TO WRITE HERE-----------------------------------------
-
-
 I made this project to recap myself of how to make really simple neural networks, it can be improve by
 many ways but for now i don't feel motivated.
 
