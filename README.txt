@@ -10,7 +10,7 @@ many ways but for now i don't feel motivated.
 It's a sort of neural network builder. 
 
 
-It's really limited but here's what you can do :
+It's very limited but here's what you can do :
 
 	# Build.py
 
